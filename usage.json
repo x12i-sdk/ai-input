@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/ai-input",
+  "packageVersion": "1.1.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/ai-input",
+  "usageRepository": "https://github.com/x12i-sdk/ai-input",
+  "sourceRepository": "https://github.com/x12i/ai-input",
+  "sourceCommit": "1b3588d1e1f9ebd602d159ed1b6524f8163f41b6",
+  "sourcePackageDirectory": ".",
+  "example": {
+    "title": "Round-trip a structured AI input without losing fields",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:13:22.607526+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "3acbfc4e14afcc276d0aa44da407de5ca5a278feac6beb03c60429959743626e",
+    "manifestSha256": "72284de887e4b573904993d586c22f926100d2d0006bf56b69ad0ceab4248553"
+  }
+}
