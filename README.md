@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Deterministic, lossless input preparation and conversion for AI model requests.
-- A AI integration needs to reuse the capabilities of @x12i/ai-input inside a larger application.
+- Prepare structured application data as readable model input and parse it back losslessly.
+- Convert between supported input representations while retaining repeated fields and exact string values.
 
 ## Links
 
